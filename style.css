@@ -1,0 +1,10 @@
+h1{
+    position: relative;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 30px 40px;
+  margin-bottom: 1em;
+  color: #ffffff;
+  background: linear-gradient(to right, #98A8F8, #BCCEF8);
+  border-radius: 10px;
+}
